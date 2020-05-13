@@ -1,3 +1,5 @@
 ---
-title: Sample page for Content Template
+title: Legislation
 ---
+
+Legislation relating to digital land.
